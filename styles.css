@@ -1,3 +1,7 @@
 #Hauptueberschrift{
+    text-align: center;
+    color: cornsilk;
     background-color: blue;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
 }
