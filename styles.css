@@ -1,7 +1,48 @@
-#Hauptueberschrift{
+ 
+ 
+ 
+ header{
+    top: 0pt;
+    background-color: rgb(240, 214, 130);
     text-align: center;
-    color: cornsilk;
-    background-color: blue;
-    padding-top: 10pt;
-    padding-bottom: 10pt;
+    padding-top: 10px;
+    padding-bottom: 5px;
+   font-size: xx-large;
+}
+
+
+nav{
+    background-color: rgb(243, 228, 180);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+}
+
+ul{
+   
+    border-right: solid lightgrey 2px ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#leftLink{
+    border-left: solid  lightgrey 2px ;
+}
+
+#ueberschriftUnterseiten{
+
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+address{
+    text-align: center;
+    font-size: x-large;
+}
+
+
+footer{
+
 }
